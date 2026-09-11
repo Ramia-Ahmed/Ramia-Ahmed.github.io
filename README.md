@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## About Me
 
 I'm a **Data & Insights Analyst** based in Dhaka, Bangladesh, focused on **B2C e-commerce** — turning raw transaction, clickstream, and marketing data into decisions a stakeholder can actually act on. Each project below follows the same structure: Background, Data, Executive Summary, Deep-Dive Insights, and Recommendations — built with SQL (DuckDB), Excel, and Power BI.
