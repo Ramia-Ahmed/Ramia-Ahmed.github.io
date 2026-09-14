@@ -100,7 +100,7 @@ Investigated what drives product returns for a mid-sized retailer. Overall refun
 ---
 
 ## Currently Learning
-Statistics for analytics
+A/B Testing for analytics
 
 ## Let's Connect
 [LinkedIn](https://www.linkedin.com/in/ramiaahmed/) · [GitHub](https://github.com/Ramia-Ahmed) · Open to remote Data & Insights Analyst opportunities
